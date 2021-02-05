@@ -1,6 +1,6 @@
 ### Hey 👋
 
-I'm a Software Engineer with 8+ years of experience in web application development, focused on front end development.
+My name is Guilherme Santos and I'm a Software Engineer with 8+ years of experience in web application development, focused on front end development.
 
 Would you like to find me?
 
