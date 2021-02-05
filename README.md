@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hey 👋
+
+I'm a Software Engineer with 8+ years of experience in web application development, focused on front end development.
+
+Would you like to find me?
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-FFF?style=flat-square&labelColor=FFF&logo=gmail&logoColor=EA4335&link=mailto:sntguilherme@gmail.com)](mailto:sntguilherme@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santosguilherme)](https://www.linkedin.com/in/santosguilherme)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sntguilherme)](https://twitter.com/sntguilherme)
+
 
 <!--
 **santosguilherme/santosguilherme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
